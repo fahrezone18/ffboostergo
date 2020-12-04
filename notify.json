@@ -1,5 +1,4 @@
 {
-"dialogOption":"custom",
 "alertOption":"sheet",
 "dialogTitle":"INI CUMAN TESTING",
 "dialogSubtitle":"Testing Doang!!",
@@ -12,7 +11,7 @@
 "dialogBtnMainClick":"browser",
 "dialogBtnMainTxt":"UPDATE NOW",
 "openLinkMain":"https://google.com",
-"newVersion":"2.12",
+"newVersion":"2.11",
 "isCancelable":"true",
 "isOneTime":"false",
 "isOneTimeKey":"null",
