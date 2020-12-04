@@ -12,7 +12,7 @@
 "dialogBtnMainClick":"browser",
 "dialogBtnMainTxt":"UPDATE NOW",
 "openLinkMain":"https://google.com",
-"newVersion":"2.12",
+"newVersion":"2.10",
 "isCancelable":"true",
 "isOneTime":"false",
 "isOneTimeKey":"null",
