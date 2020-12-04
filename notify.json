@@ -9,7 +9,7 @@
 "dialogTitle":"FF BOOSTER GO : V2.10",
 "dialogSubtitle":"Update now get New Feature!!\nApa yang Baru?\n- Extreme Mode (Pengganti Normal Mode)\n- FPS Stabilizer bisa dimatikan\n- Server baru yg lebih stabil\n- Free Ads DIPERBAIKI!! (Anti Bug² Club):v",
 "dialogBtnMain":"true",
-"dialogBtnExtra":"true",
+"dialogBtnExtra":"false",
 "dialogBtnMainTxt":"UPDATE NOW!!",
 "dialogBtnExtraTxt":"NOT NOW",
 "dialogBtnMainClick":"browser",
