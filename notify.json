@@ -13,7 +13,7 @@
 "dialogBtnMainTxt":"UPDATE NOW",
 "openLinkMain":"https://google.com",
 "newVersion":"2.9",
-"isCancelable":"false",
+"isCancelable":"true",
 "isOneTime":"false",
 "isOneTimeKey":"null",
 "email":"xredz182@gmail.com"
