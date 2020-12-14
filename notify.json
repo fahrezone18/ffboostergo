@@ -1,6 +1,6 @@
 {
 "dialogOption":"custom",
-"alertOption":"sheet",
+"alertOption":"dialog",
 "customDialogMainTxtColor":"#FFFFFF",
 "customDialogBtnTxtColor":"#FFFFFF",
 "customDialogBack":"#101010",
