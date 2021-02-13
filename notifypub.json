@@ -6,8 +6,8 @@
 "customDialogBack":"#101010",
 "customDialogAccent":"#1B8AF2",
 "customDialogRound":"37",
-"dialogTitle":"FF BOOSTER GO : V3.1",
-"dialogSubtitle":"Fitur baru v3.1 :\n- Fitur FIX LAG Dihapus (Demi keamanan kita bersama)\n- Tampilan Baru (Gk baru sih, cuman di tata ulang)\n- Fitur VIP Berubah menjadi PRO\n- Fitur Sensitivity diperbarui\n- Bisa kombinasi settingan sendiri (hanya mode PRO)\n- Auto Boost dipindahkan ke CPU/GPU Booster\n- Fast Boost FF & Launch FF diperbaiki (gak ngelag pas dipencet)\n- Notifikasi diperbaiki (gk akan ilang pas didalam game)\n- DAN SKARANG GWE BERANI JAMIN, APLIKASI INI 100% AMAN ANTI BANNED!!","dialogBtnMain":"true",
+"dialogTitle":"FF BOOSTER GO : V1.1",
+"dialogSubtitle":"Fitur baru v1.1 :\n- Fitur FIX LAG Dihapus (Demi keamanan kita bersama)\n- Tampilan Baru (Gk baru sih, cuman di tata ulang)\n- Fitur VIP Berubah menjadi PRO\n- Fitur Sensitivity diperbarui\n- Bisa kombinasi settingan sendiri (hanya mode PRO)\n- Auto Boost dipindahkan ke CPU/GPU Booster\n- Fast Boost FF & Launch FF diperbaiki (gak ngelag pas dipencet)\n- Notifikasi diperbaiki (gk akan ilang pas didalam game)\n- DAN SKARANG GWE BERANI JAMIN, APLIKASI INI 100% AMAN ANTI BANNED!!","dialogBtnMain":"true",
 "dialogBtnExtra":"false",
 "dialogBtnMainTxt":"UPDATE NOW!!",
 "dialogBtnExtraTxt":"JOIN MY GROUP (VIP CUMAN 10K)",
@@ -19,6 +19,6 @@
 "isOneTime":"false",
 "isCancelable":"false",
 "email":"xredz182@gmail.com",
-"currVersion":"1.1",
-"newVersion":"1.1"
+"currVersion":"1.0",
+"newVersion":"1.0"
 }
