@@ -6,7 +6,7 @@
 "customDialogBack":"#101010",
 "customDialogAccent":"#1B8AF2",
 "customDialogRound":"37",
-"dialogTitle":"FF BOOSTER GO V2.0 : UPDATE",
+"dialogTitle":"FF BOOSTER GO V2.1 : UPDATE",
 "dialogSubtitle":"Please Check Play Store to Get Update",
 "dialogBtnMain":"true",
 "dialogBtnExtra":"false",
@@ -18,8 +18,8 @@
 "openLinkExtra":"https://youtu.be/ICOk-xYy5Gs",
 "isOneTimeKey":"null",
 "isOneTime":"false",
-"isCancelable":"true",
+"isCancelable":"false",
 "email":"xredz182@gmail.com",
 "currVersion":"1.0",
-"newVersion":"2.0"
+"newVersion":"2.1"
 }
