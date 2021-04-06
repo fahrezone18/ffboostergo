@@ -6,7 +6,7 @@
 "customDialogBack":"#101010",
 "customDialogAccent":"#1B8AF2",
 "customDialogRound":"37",
-"dialogTitle":"FF BOOSTER GO V2.5 : UPDATE",
+"dialogTitle":"FF BOOSTER GO V2.6 : UPDATE",
 "dialogSubtitle":"Please Check Play Store to Get Update",
 "dialogBtnMain":"true",
 "dialogBtnExtra":"false",
@@ -21,5 +21,5 @@
 "isCancelable":"false",
 "email":"xredz182@gmail.com",
 "currVersion":"1.0",
-"newVersion":"2.5"
+"newVersion":"2.6"
 }
