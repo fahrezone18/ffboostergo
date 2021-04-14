@@ -6,9 +6,9 @@
 "customDialogBack":"#101010",
 "customDialogAccent":"#1B8AF2",
 "customDialogRound":"37",
-"dialogTitle":"FF BOOSTER GO : TEST",
-"dialogSubtitle":"Only Test.",
-"dialogBtnMain":"false",
+"dialogTitle":"FF BOOSTER GO V2.6 : UPDATE",
+"dialogSubtitle":"Check Playstore to get new Version",
+"dialogBtnMain":"true",
 "dialogBtnExtra":"false",
 "dialogBtnMainTxt":"UPDATE NOW!!",
 "dialogBtnExtraTxt":"JOIN MY GROUP (VIP CUMAN 10K)",
@@ -18,8 +18,8 @@
 "openLinkExtra":"https://youtu.be/ICOk-xYy5Gs",
 "isOneTimeKey":"null",
 "isOneTime":"false",
-"isCancelable":"true",
+"isCancelable":"false",
 "email":"xredz182@gmail.com",
 "currVersion":"1.0",
-"newVersion":"2.7"
+"newVersion":"2.6"
 }
