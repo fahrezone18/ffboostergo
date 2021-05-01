@@ -1,1 +1,8 @@
-A
+{
+"newVersion":"2.0",
+"dialogSubtitle":"Update Available, check Playstore for Update",
+"visibleButton":"true",
+"textButton":"Update Now",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.one.optimizer",
+"dialogCancelable":"false"
+}
