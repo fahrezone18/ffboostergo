@@ -1,12 +1,12 @@
 {
 "newVersion":"4.90",
-"newVcode":"490",
+"newVcode":"491",
 "FFSGVerNew":"1.0",
 "FFSGCodeNew":"11",
-"dialogTitle":"UPDATE",
-"dialogSubtitle":"Update Available, Update now in Playstore",
+"dialogTitle":"MAINTENANCE",
+"dialogSubtitle":"Server on Maintenance, be patient :)",
 "visibleButton":"true",
-"textButton":"Update Available",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.booster.ff",
+"textButton":"Exit",
+"upLink":"exit",
 "dialogCancelable":"false"
 }
