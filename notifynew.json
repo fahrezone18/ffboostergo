@@ -1,12 +1,12 @@
 {
-"newVersion":"5.13",
-"newVcode":"513",
+"newVersion":"5.10",
+"newVcode":"510",
 "FFSGVerNew":"1.0",
 "FFSGCodeNew":"11", 
-"dialogTitle":"MAINTENANCE",
-"dialogSubtitle":"Server on Maintenance, Please be patient :)",
+"dialogTitle":"UPDATE",
+"dialogSubtitle":"Update Available, Update now in Playstore :)",
 "visibleButton":"true",
-"textButton":"Ok",
+"textButton":"Update Now",
 "upLink":"exit",
 "dialogCancelable":"false"
 }
