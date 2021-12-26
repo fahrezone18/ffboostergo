@@ -1,6 +1,6 @@
 {
-"newVersion":"5.36",
-"newVcode":"536",
+"newVersion":"5.37",
+"newVcode":"537",
 "FFSGVerNew":"1.0",
 "FFSGCodeNew":"11", 
 "dialogTitle":"UPDATE",
@@ -8,6 +8,6 @@
 "dialogInfo":"[INFO] Sensitivity Calculator has ben Updated to Sensitivity Accuracy on FF Booster Go V5.34, you can update now in PlayStore, FahrezONE :)",
 "visibleButton":"true",
 "textButton":"Update Now",
-"upLink":"exit",
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.booster.ff",
 "dialogCancelable":"false"
 }
