@@ -6,8 +6,8 @@
 "dialogTitle":"NOTES",
 "dialogSubtitle":"Hi I have good news and bad news :(\nThe bad news is that FF Booster Go will not be updated anymore, because there are too many bugs and errors, and the good news is that I created a new FF Optimizer Go application that has been released on the PlayStore :)\n\nHai, Saya punya Kabar baik dan kabar buruk :(\nKabar buruknya FF Booster Go tidak akan di perbarui lagi, karena terlalu banyak bug dan error, dan kabar baiknya saya membuat aplikasi baru FF Optimizer Go yang sudah rilis di PlayStore :)",
 "dialogInfo":"[INFO] \"FF Optimizer Go\" Has been released, you can try app on PlayStore",
-"visibleButton":"false",
+"visibleButton":"true",
 "textButton":"Update Now",
-"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.booster.ff",
-"dialogCancelable":"true"
+"upLink":"https://play.google.com/store/apps/details?id=com.fahrezone.optimizer.ff",
+"dialogCancelable":"false"
 }
